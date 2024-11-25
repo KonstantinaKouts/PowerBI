@@ -10,7 +10,7 @@ A Power BI dashboard showcasing sales trends, regional performance, and customer
 - Highlights top-performing regions and products.
 - Includes interactive filters.
 
-![Sales Dashboard](sales-dashboard-preview.png)
+![Sales Dashboard](dashboard-preview.png)
 ## How to Use
 1. Download the `CookieReport.pbix` file.
 2. Open it in Power BI Desktop.
