@@ -1,6 +1,6 @@
-# My Power BI Portfolio
+# Cookies Project
 
-This repository showcases various Power BI dashboards and visualizations I've created to demonstrate my skills in data analysis and visualization.
+This project showcases a Power BI dashboard I've created to demonstrate my skills in data analysis and visualization.
 
 ## Sales Analysis Dashboard
 A Power BI dashboard showcasing sales trends, regional performance, and customer segmentation.
